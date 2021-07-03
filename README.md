@@ -1,10 +1,10 @@
 # Movie_Management_System_wGUI
 <br>
-Generic Login Information:
+<b>Generic Login Information:</b>
 <br>
 <b>username:</b> admin
 <br>
 <b>password:</b> password
 <br>
 <br>
-Upcoming update: Inclusion of user creation and management.
+<b>Upcoming update:</b> Inclusion of user creation and management.
