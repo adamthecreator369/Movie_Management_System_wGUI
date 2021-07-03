@@ -137,7 +137,7 @@ public class ApplicationFrame extends Frame {
 		editCancelBtn.setBounds(1010, 95, 175, 50);
 		
 		loginBtn.setBounds(545, 285, 160, 40);
-		logoutBtn.setBounds( 1100, 900, 160, 40);
+		logoutBtn.setBounds( 1040, 900, 160, 40);
 		findMovieBtn.setBounds(545, 210, 160, 40);
 		deleteDeleteBtn.setBounds(545, 210, 160, 40);
 		releaseByNameBtn.setBounds(545, 210, 160, 40);
