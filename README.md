@@ -1,4 +1,4 @@
-# Movie_Management_System_wGUI
+# Movie_Management_System_wGUI (Mac OS Only made for 15" screens)
 <br> 
 <b>This version is an improvement upon a previous project. </b>
 <br>
